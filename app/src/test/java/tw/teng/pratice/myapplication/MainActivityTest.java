@@ -9,6 +9,6 @@ public class MainActivityTest {
     @Test
     public void testMax() {
         assertEquals(8,MainActivity.max(3,5));
-        assertNotEquals(7,MainActivity.max(3,5));
+        assertNotEquals(2,MainActivity.max(3,5));
     }
 }
