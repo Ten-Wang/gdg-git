@@ -2,4 +2,5 @@
     <string name="app_name">My Application</string>
     <string name="speak">說話</string>
     <string name="eateateat">一直吃一直吃一直吃</string>
+    <string name="please_open_mic_permission">請開啟麥克風權限</string>
 </resources>
